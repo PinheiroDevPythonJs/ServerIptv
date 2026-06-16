@@ -60,6 +60,6 @@ app.get("/user", async (req, res) => {
     }
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8010;
 
-app.listen(PORT, () => console.log("Backend rodando na porta", PORT));
+app.listen(PORT, () => console.log("Backend rodando na porta:", PORT));
