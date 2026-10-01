@@ -13,9 +13,9 @@ app.use(
 );
 
 const config = {
-    url: "http://vaunvo.top",
-    username: "19999087213xtvs",
-    password: "k570U3267Q",
+    url: "http://1lovelinuxcdn.click",
+    username: "12f72k1",
+    password: "449r24d",
 };
 
 const xtream = new Xtream(config);
