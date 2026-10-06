@@ -13,9 +13,9 @@ app.use(
 );
 
 const config = {
-    url: "http://1lovelinuxcdn.click",
-    username: "12f72k1",
-    password: "449r24d",
+    url: "http://blackbr.space:80",
+    username: "3733cjyuk",
+    password: "7433bkvuh",
 };
 
 const xtream = new Xtream(config);
